@@ -1,0 +1,17 @@
+     .checklist{
+            background-color: rgb(62, 59, 7);
+            color: beige;
+            padding: 10px;
+        }
+        .form{
+            background-color: rgb(249, 187, 207);
+        }
+        .footer{
+            background-color: brown;
+        }
+        #things{
+           color: cadetblue;
+        }
+        #seniors{
+            color: cornflowerblue;
+        }
