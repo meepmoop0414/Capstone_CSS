@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(133, 133, 133);
+}
+
+.favs{
+    background-color: brown;
+    width: 250px;
+    color: rgb(70, 3, 3);
+    text-align: center;
+    margin: auto;
+    border-style: solid;
+    border-color: black;
+}
+
+#welcome{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    margin: auto;
+}
+
+#wist{
+    display: block;
+    margin: auto;
+}

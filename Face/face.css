@@ -1,0 +1,107 @@
+body{
+   margin: 0px; 
+   padding: 0px;
+}
+
+#skin{
+    background-color: rgb(181, 173, 59);
+    width: 500px;
+    height: 600px;
+    padding: 20px;
+}
+
+.eye{
+    width: 175px;
+    height: 160px;
+    background-color: white;
+}
+
+#reye{
+    position: relative;
+    left: 300px;
+    bottom: 160px;
+}
+
+.pupil{
+    background-color: brown;
+    width: 80px;
+    height: 80px;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+
+#mouth{
+    background-color: brown;
+    width: 450px;
+    height: 250px;
+    padding: 20px;
+    position: relative;
+    bottom: 50px;
+}
+
+.teeth{
+    background-color: white;
+    width: 30px;
+    height: 30px;
+}
+
+#btooth{
+    position: relative;
+    bottom: 30px;
+    left: 50px;
+}
+
+#ctooth{
+    position: relative;
+    bottom: 60px;
+    left: 100px;
+}
+#dtooth{
+    position: relative;
+    bottom: 90px;
+    left: 150px;
+}
+#etooth{
+    position: relative;
+    bottom: 120px;
+    left: 200px;
+}
+#ftooth{
+    position: relative;
+    bottom: 150px;
+    left: 250px;
+}
+#gtooth{
+    position: relative;
+    bottom: 180px;
+    left: 300px;
+}
+
+#ltongue{
+    width: 60px;
+    height: 60px;
+    background-color: coral;
+    position: relative;
+    bottom: 50px;
+    left: 150px;
+}
+
+#rtongue{
+    width: 60px;
+    height: 60px;
+    background-color: coral;
+    position: relative;
+    bottom: 110px;
+    left: 220px;
+}
+
+#btongue{
+    width: 130px;
+    height: 60px;
+    background-color: coral;
+    position: relative;
+    bottom: 120px;
+    left: 150px;
+}
+
